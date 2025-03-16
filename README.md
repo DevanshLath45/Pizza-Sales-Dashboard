@@ -1,1 +1,1 @@
-Pizza Sales Dashboard using Power BI
+Pizza Sales Dashboard - Power BI
